@@ -1,0 +1,1185 @@
+** Constraint: N1_36x
+*Equation
+2
+N1, 1, 1.
+N36, 1, -1.
+** Constraint: N2_36x
+*Equation
+2
+N2, 1, 1.
+N36, 1, -1.
+** Constraint: N3_36x
+*Equation
+2
+N3, 1, 1.
+N36, 1, -1.
+** Constraint: N4_36x
+*Equation
+2
+N4, 1, 1.
+N36, 1, -1.
+** Constraint: N5_36x
+*Equation
+2
+N5, 1, 1.
+N36, 1, -1.
+** Constraint: N6_36x
+*Equation
+2
+N6, 1, 1.
+N36, 1, -1.
+** Constraint: N7_36x
+*Equation
+2
+N7, 1, 1.
+N36, 1, -1.
+** Constraint: N8_36x
+*Equation
+2
+N8, 1, 1.
+N36, 1, -1.
+** Constraint: N9_36x
+*Equation
+2
+N9, 1, 1.
+N36, 1, -1.
+** Constraint: N10_36x
+*Equation
+2
+N10, 1, 1.
+N36, 1, -1.
+** Constraint: N11_36x
+*Equation
+2
+N11, 1, 1.
+N36, 1, -1.
+** Constraint: N12_36x
+*Equation
+2
+N12, 1, 1.
+N36, 1, -1.
+** Constraint: N13_36x
+*Equation
+2
+N13, 1, 1.
+N36, 1, -1.
+** Constraint: N14_36x
+*Equation
+2
+N14, 1, 1.
+N36, 1, -1.
+** Constraint: N15_36x
+*Equation
+2
+N15, 1, 1.
+N36, 1, -1.
+** Constraint: N16_36x
+*Equation
+2
+N16, 1, 1.
+N36, 1, -1.
+** Constraint: N17_36x
+*Equation
+2
+N17, 1, 1.
+N36, 1, -1.
+** Constraint: N18_36x
+*Equation
+2
+N18, 1, 1.
+N36, 1, -1.
+** Constraint: N19_36x
+*Equation
+2
+N19, 1, 1.
+N36, 1, -1.
+** Constraint: N20_36x
+*Equation
+2
+N20, 1, 1.
+N36, 1, -1.
+** Constraint: N21_36x
+*Equation
+2
+N21, 1, 1.
+N36, 1, -1.
+** Constraint: N22_36x
+*Equation
+2
+N22, 1, 1.
+N36, 1, -1.
+** Constraint: N23_36x
+*Equation
+2
+N23, 1, 1.
+N36, 1, -1.
+** Constraint: N24_36x
+*Equation
+2
+N24, 1, 1.
+N36, 1, -1.
+** Constraint: N25_36x
+*Equation
+2
+N25, 1, 1.
+N36, 1, -1.
+** Constraint: N26_36x
+*Equation
+2
+N26, 1, 1.
+N36, 1, -1.
+** Constraint: N27_36x
+*Equation
+2
+N27, 1, 1.
+N36, 1, -1.
+** Constraint: N28_36x
+*Equation
+2
+N28, 1, 1.
+N36, 1, -1.
+** Constraint: N29_36x
+*Equation
+2
+N29, 1, 1.
+N36, 1, -1.
+** Constraint: N30_36x
+*Equation
+2
+N30, 1, 1.
+N36, 1, -1.
+** Constraint: N31_36x
+*Equation
+2
+N31, 1, 1.
+N36, 1, -1.
+** Constraint: N32_36x
+*Equation
+2
+N32, 1, 1.
+N36, 1, -1.
+** Constraint: N33_36x
+*Equation
+2
+N33, 1, 1.
+N36, 1, -1.
+** Constraint: N34_36x
+*Equation
+2
+N34, 1, 1.
+N36, 1, -1.
+** Constraint: N35_36x
+*Equation
+2
+N35, 1, 1.
+N36, 1, -1.
+** Constraint: N37_72x
+*Equation
+2
+N37, 1, 1.
+N72, 1, -1.
+** Constraint: N42_72x
+*Equation
+2
+N42, 1, 1.
+N72, 1, -1.
+** Constraint: N67_72x
+*Equation
+2
+N67, 1, 1.
+N72, 1, -1.
+** Constraint: N73_108x
+*Equation
+2
+N73, 1, 1.
+N108, 1, -1.
+** Constraint: N78_108x
+*Equation
+2
+N78, 1, 1.
+N108, 1, -1.
+** Constraint: N103_108x
+*Equation
+2
+N103, 1, 1.
+N108, 1, -1.
+** Constraint: N109_144x
+*Equation
+2
+N109, 1, 1.
+N144, 1, -1.
+** Constraint: N114_144x
+*Equation
+2
+N114, 1, 1.
+N144, 1, -1.
+** Constraint: N139_144x
+*Equation
+2
+N139, 1, 1.
+N144, 1, -1.
+** Constraint: N145_180x
+*Equation
+2
+N145, 1, 1.
+N180, 1, -1.
+** Constraint: N150_180x
+*Equation
+2
+N150, 1, 1.
+N180, 1, -1.
+** Constraint: N175_180x
+*Equation
+2
+N175, 1, 1.
+N180, 1, -1.
+** Constraint: N43_48x
+*Equation
+2
+N43, 1, 1.
+N48, 1, -1.
+** Constraint: N49_54x
+*Equation
+2
+N49, 1, 1.
+N54, 1, -1.
+** Constraint: N55_60x
+*Equation
+2
+N55, 1, 1.
+N60, 1, -1.
+** Constraint: N61_66x
+*Equation
+2
+N61, 1, 1.
+N66, 1, -1.
+** Constraint: N79_84x
+*Equation
+2
+N79, 1, 1.
+N84, 1, -1.
+** Constraint: N85_90x
+*Equation
+2
+N85, 1, 1.
+N90, 1, -1.
+** Constraint: N91_96x
+*Equation
+2
+N91, 1, 1.
+N96, 1, -1.
+** Constraint: N97_102x
+*Equation
+2
+N97, 1, 1.
+N102, 1, -1.
+** Constraint: N115_120x
+*Equation
+2
+N115, 1, 1.
+N120, 1, -1.
+** Constraint: N121_126x
+*Equation
+2
+N121, 1, 1.
+N126, 1, -1.
+** Constraint: N127_132x
+*Equation
+2
+N127, 1, 1.
+N132, 1, -1.
+** Constraint: N133_138x
+*Equation
+2
+N133, 1, 1.
+N138, 1, -1.
+** Constraint: N151_156x
+*Equation
+2
+N151, 1, 1.
+N156, 1, -1.
+** Constraint: N157_162x
+*Equation
+2
+N157, 1, 1.
+N162, 1, -1.
+** Constraint: N163_168x
+*Equation
+2
+N163, 1, 1.
+N168, 1, -1.
+** Constraint: N169_174x
+*Equation
+2
+N169, 1, 1.
+N174, 1, -1.
+** Constraint: N38_68x
+*Equation
+2
+N38, 1, 1.
+N68, 1, -1.
+** Constraint: N39_69x
+*Equation
+2
+N39, 1, 1.
+N69, 1, -1.
+** Constraint: N40_70x
+*Equation
+2
+N40, 1, 1.
+N70, 1, -1.
+** Constraint: N41_71x
+*Equation
+2
+N41, 1, 1.
+N71, 1, -1.
+** Constraint: N74_104x
+*Equation
+2
+N74, 1, 1.
+N104, 1, -1.
+** Constraint: N75_105x
+*Equation
+2
+N75, 1, 1.
+N105, 1, -1.
+** Constraint: N76_106x
+*Equation
+2
+N76, 1, 1.
+N106, 1, -1.
+** Constraint: N77_107x
+*Equation
+2
+N77, 1, 1.
+N107, 1, -1.
+** Constraint: N110_140x
+*Equation
+2
+N110, 1, 1.
+N140, 1, -1.
+** Constraint: N111_141x
+*Equation
+2
+N111, 1, 1.
+N141, 1, -1.
+** Constraint: N112_142x
+*Equation
+2
+N112, 1, 1.
+N142, 1, -1.
+** Constraint: N113_143x
+*Equation
+2
+N113, 1, 1.
+N143, 1, -1.
+** Constraint: N146_176x
+*Equation
+2
+N146, 1, 1.
+N176, 1, -1.
+** Constraint: N147_177x
+*Equation
+2
+N147, 1, 1.
+N177, 1, -1.
+** Constraint: N148_178x
+*Equation
+2
+N148, 1, 1.
+N178, 1, -1.
+** Constraint: N149_179x
+*Equation
+2
+N149, 1, 1.
+N179, 1, -1.
+** Constraint: N1_211y
+*Equation
+2
+N1, 2, 1.
+N211, 2, -1.
+** Constraint: N7_211y
+*Equation
+2
+N7, 2, 1.
+N211, 2, -1.
+** Constraint: N13_211y
+*Equation
+2
+N13, 2, 1.
+N211, 2, -1.
+** Constraint: N19_211y
+*Equation
+2
+N19, 2, 1.
+N211, 2, -1.
+** Constraint: N25_211y
+*Equation
+2
+N25, 2, 1.
+N211, 2, -1.
+** Constraint: N31_211y
+*Equation
+2
+N31, 2, 1.
+N211, 2, -1.
+** Constraint: N37_211y
+*Equation
+2
+N37, 2, 1.
+N211, 2, -1.
+** Constraint: N43_211y
+*Equation
+2
+N43, 2, 1.
+N211, 2, -1.
+** Constraint: N49_211y
+*Equation
+2
+N49, 2, 1.
+N211, 2, -1.
+** Constraint: N55_211y
+*Equation
+2
+N55, 2, 1.
+N211, 2, -1.
+** Constraint: N61_211y
+*Equation
+2
+N61, 2, 1.
+N211, 2, -1.
+** Constraint: N67_211y
+*Equation
+2
+N67, 2, 1.
+N211, 2, -1.
+** Constraint: N73_211y
+*Equation
+2
+N73, 2, 1.
+N211, 2, -1.
+** Constraint: N79_211y
+*Equation
+2
+N79, 2, 1.
+N211, 2, -1.
+** Constraint: N85_211y
+*Equation
+2
+N85, 2, 1.
+N211, 2, -1.
+** Constraint: N91_211y
+*Equation
+2
+N91, 2, 1.
+N211, 2, -1.
+** Constraint: N97_211y
+*Equation
+2
+N97, 2, 1.
+N211, 2, -1.
+** Constraint: N103_211y
+*Equation
+2
+N103, 2, 1.
+N211, 2, -1.
+** Constraint: N109_211y
+*Equation
+2
+N109, 2, 1.
+N211, 2, -1.
+** Constraint: N115_211y
+*Equation
+2
+N115, 2, 1.
+N211, 2, -1.
+** Constraint: N121_211y
+*Equation
+2
+N121, 2, 1.
+N211, 2, -1.
+** Constraint: N127_211y
+*Equation
+2
+N127, 2, 1.
+N211, 2, -1.
+** Constraint: N133_211y
+*Equation
+2
+N133, 2, 1.
+N211, 2, -1.
+** Constraint: N139_211y
+*Equation
+2
+N139, 2, 1.
+N211, 2, -1.
+** Constraint: N145_211y
+*Equation
+2
+N145, 2, 1.
+N211, 2, -1.
+** Constraint: N151_211y
+*Equation
+2
+N151, 2, 1.
+N211, 2, -1.
+** Constraint: N157_211y
+*Equation
+2
+N157, 2, 1.
+N211, 2, -1.
+** Constraint: N163_211y
+*Equation
+2
+N163, 2, 1.
+N211, 2, -1.
+** Constraint: N169_211y
+*Equation
+2
+N169, 2, 1.
+N211, 2, -1.
+** Constraint: N175_211y
+*Equation
+2
+N175, 2, 1.
+N211, 2, -1.
+** Constraint: N181_211y
+*Equation
+2
+N181, 2, 1.
+N211, 2, -1.
+** Constraint: N187_211y
+*Equation
+2
+N187, 2, 1.
+N211, 2, -1.
+** Constraint: N193_211y
+*Equation
+2
+N193, 2, 1.
+N211, 2, -1.
+** Constraint: N199_211y
+*Equation
+2
+N199, 2, 1.
+N211, 2, -1.
+** Constraint: N205_211y
+*Equation
+2
+N205, 2, 1.
+N211, 2, -1.
+** Constraint: N2_212y
+*Equation
+2
+N2, 2, 1.
+N212, 2, -1.
+** Constraint: N32_212y
+*Equation
+2
+N32, 2, 1.
+N212, 2, -1.
+** Constraint: N182_212y
+*Equation
+2
+N182, 2, 1.
+N212, 2, -1.
+** Constraint: N3_213y
+*Equation
+2
+N3, 2, 1.
+N213, 2, -1.
+** Constraint: N33_213y
+*Equation
+2
+N33, 2, 1.
+N213, 2, -1.
+** Constraint: N183_213y
+*Equation
+2
+N183, 2, 1.
+N213, 2, -1.
+** Constraint: N4_214y
+*Equation
+2
+N4, 2, 1.
+N214, 2, -1.
+** Constraint: N34_214y
+*Equation
+2
+N34, 2, 1.
+N214, 2, -1.
+** Constraint: N184_214y
+*Equation
+2
+N184, 2, 1.
+N214, 2, -1.
+** Constraint: N5_215y
+*Equation
+2
+N5, 2, 1.
+N215, 2, -1.
+** Constraint: N35_215y
+*Equation
+2
+N35, 2, 1.
+N215, 2, -1.
+** Constraint: N185_215y
+*Equation
+2
+N185, 2, 1.
+N215, 2, -1.
+** Constraint: N8_188y
+*Equation
+2
+N8, 2, 1.
+N188, 2, -1.
+** Constraint: N9_189y
+*Equation
+2
+N9, 2, 1.
+N189, 2, -1.
+** Constraint: N10_190y
+*Equation
+2
+N10, 2, 1.
+N190, 2, -1.
+** Constraint: N11_191y
+*Equation
+2
+N11, 2, 1.
+N191, 2, -1.
+** Constraint: N14_194y
+*Equation
+2
+N14, 2, 1.
+N194, 2, -1.
+** Constraint: N15_195y
+*Equation
+2
+N15, 2, 1.
+N195, 2, -1.
+** Constraint: N16_196y
+*Equation
+2
+N16, 2, 1.
+N196, 2, -1.
+** Constraint: N17_197y
+*Equation
+2
+N17, 2, 1.
+N197, 2, -1.
+** Constraint: N20_200y
+*Equation
+2
+N20, 2, 1.
+N200, 2, -1.
+** Constraint: N21_201y
+*Equation
+2
+N21, 2, 1.
+N201, 2, -1.
+** Constraint: N22_202y
+*Equation
+2
+N22, 2, 1.
+N202, 2, -1.
+** Constraint: N23_203y
+*Equation
+2
+N23, 2, 1.
+N203, 2, -1.
+** Constraint: N26_206y
+*Equation
+2
+N26, 2, 1.
+N206, 2, -1.
+** Constraint: N27_207y
+*Equation
+2
+N27, 2, 1.
+N207, 2, -1.
+** Constraint: N28_208y
+*Equation
+2
+N28, 2, 1.
+N208, 2, -1.
+** Constraint: N29_209y
+*Equation
+2
+N29, 2, 1.
+N209, 2, -1.
+** Constraint: N38_68y
+*Equation
+2
+N38, 2, 1.
+N68, 2, -1.
+** Constraint: N39_69y
+*Equation
+2
+N39, 2, 1.
+N69, 2, -1.
+** Constraint: N40_70y
+*Equation
+2
+N40, 2, 1.
+N70, 2, -1.
+** Constraint: N41_71y
+*Equation
+2
+N41, 2, 1.
+N71, 2, -1.
+** Constraint: N74_104y
+*Equation
+2
+N74, 2, 1.
+N104, 2, -1.
+** Constraint: N75_105y
+*Equation
+2
+N75, 2, 1.
+N105, 2, -1.
+** Constraint: N76_106y
+*Equation
+2
+N76, 2, 1.
+N106, 2, -1.
+** Constraint: N77_107y
+*Equation
+2
+N77, 2, 1.
+N107, 2, -1.
+** Constraint: N110_140y
+*Equation
+2
+N110, 2, 1.
+N140, 2, -1.
+** Constraint: N111_141y
+*Equation
+2
+N111, 2, 1.
+N141, 2, -1.
+** Constraint: N112_142y
+*Equation
+2
+N112, 2, 1.
+N142, 2, -1.
+** Constraint: N113_143y
+*Equation
+2
+N113, 2, 1.
+N143, 2, -1.
+** Constraint: N146_176y
+*Equation
+2
+N146, 2, 1.
+N176, 2, -1.
+** Constraint: N147_177y
+*Equation
+2
+N147, 2, 1.
+N177, 2, -1.
+** Constraint: N148_178y
+*Equation
+2
+N148, 2, 1.
+N178, 2, -1.
+** Constraint: N149_179y
+*Equation
+2
+N149, 2, 1.
+N179, 2, -1.
+** Constraint: N1_186z
+*Equation
+2
+N1, 3, 1.
+N186, 3, -1.
+** Constraint: N2_186z
+*Equation
+2
+N2, 3, 1.
+N186, 3, -1.
+** Constraint: N3_186z
+*Equation
+2
+N3, 3, 1.
+N186, 3, -1.
+** Constraint: N4_186z
+*Equation
+2
+N4, 3, 1.
+N186, 3, -1.
+** Constraint: N5_186z
+*Equation
+2
+N5, 3, 1.
+N186, 3, -1.
+** Constraint: N6_186z
+*Equation
+2
+N6, 3, 1.
+N186, 3, -1.
+** Constraint: N37_186z
+*Equation
+2
+N37, 3, 1.
+N186, 3, -1.
+** Constraint: N38_186z
+*Equation
+2
+N38, 3, 1.
+N186, 3, -1.
+** Constraint: N39_186z
+*Equation
+2
+N39, 3, 1.
+N186, 3, -1.
+** Constraint: N40_186z
+*Equation
+2
+N40, 3, 1.
+N186, 3, -1.
+** Constraint: N41_186z
+*Equation
+2
+N41, 3, 1.
+N186, 3, -1.
+** Constraint: N42_186z
+*Equation
+2
+N42, 3, 1.
+N186, 3, -1.
+** Constraint: N73_186z
+*Equation
+2
+N73, 3, 1.
+N186, 3, -1.
+** Constraint: N74_186z
+*Equation
+2
+N74, 3, 1.
+N186, 3, -1.
+** Constraint: N75_186z
+*Equation
+2
+N75, 3, 1.
+N186, 3, -1.
+** Constraint: N76_186z
+*Equation
+2
+N76, 3, 1.
+N186, 3, -1.
+** Constraint: N77_186z
+*Equation
+2
+N77, 3, 1.
+N186, 3, -1.
+** Constraint: N78_186z
+*Equation
+2
+N78, 3, 1.
+N186, 3, -1.
+** Constraint: N109_186z
+*Equation
+2
+N109, 3, 1.
+N186, 3, -1.
+** Constraint: N110_186z
+*Equation
+2
+N110, 3, 1.
+N186, 3, -1.
+** Constraint: N111_186z
+*Equation
+2
+N111, 3, 1.
+N186, 3, -1.
+** Constraint: N112_186z
+*Equation
+2
+N112, 3, 1.
+N186, 3, -1.
+** Constraint: N113_186z
+*Equation
+2
+N113, 3, 1.
+N186, 3, -1.
+** Constraint: N114_186z
+*Equation
+2
+N114, 3, 1.
+N186, 3, -1.
+** Constraint: N145_186z
+*Equation
+2
+N145, 3, 1.
+N186, 3, -1.
+** Constraint: N146_186z
+*Equation
+2
+N146, 3, 1.
+N186, 3, -1.
+** Constraint: N147_186z
+*Equation
+2
+N147, 3, 1.
+N186, 3, -1.
+** Constraint: N148_186z
+*Equation
+2
+N148, 3, 1.
+N186, 3, -1.
+** Constraint: N149_186z
+*Equation
+2
+N149, 3, 1.
+N186, 3, -1.
+** Constraint: N150_186z
+*Equation
+2
+N150, 3, 1.
+N186, 3, -1.
+** Constraint: N181_186z
+*Equation
+2
+N181, 3, 1.
+N186, 3, -1.
+** Constraint: N182_186z
+*Equation
+2
+N182, 3, 1.
+N186, 3, -1.
+** Constraint: N183_186z
+*Equation
+2
+N183, 3, 1.
+N186, 3, -1.
+** Constraint: N184_186z
+*Equation
+2
+N184, 3, 1.
+N186, 3, -1.
+** Constraint: N185_186z
+*Equation
+2
+N185, 3, 1.
+N186, 3, -1.
+** Constraint: N7_192z
+*Equation
+2
+N7, 3, 1.
+N192, 3, -1.
+** Constraint: N12_192z
+*Equation
+2
+N12, 3, 1.
+N192, 3, -1.
+** Constraint: N187_192z
+*Equation
+2
+N187, 3, 1.
+N192, 3, -1.
+** Constraint: N13_198z
+*Equation
+2
+N13, 3, 1.
+N198, 3, -1.
+** Constraint: N18_198z
+*Equation
+2
+N18, 3, 1.
+N198, 3, -1.
+** Constraint: N193_198z
+*Equation
+2
+N193, 3, 1.
+N198, 3, -1.
+** Constraint: N19_204z
+*Equation
+2
+N19, 3, 1.
+N204, 3, -1.
+** Constraint: N24_204z
+*Equation
+2
+N24, 3, 1.
+N204, 3, -1.
+** Constraint: N199_204z
+*Equation
+2
+N199, 3, 1.
+N204, 3, -1.
+** Constraint: N25_210z
+*Equation
+2
+N25, 3, 1.
+N210, 3, -1.
+** Constraint: N30_210z
+*Equation
+2
+N30, 3, 1.
+N210, 3, -1.
+** Constraint: N205_210z
+*Equation
+2
+N205, 3, 1.
+N210, 3, -1.
+** Constraint: N8_188z
+*Equation
+2
+N8, 3, 1.
+N188, 3, -1.
+** Constraint: N9_189z
+*Equation
+2
+N9, 3, 1.
+N189, 3, -1.
+** Constraint: N10_190z
+*Equation
+2
+N10, 3, 1.
+N190, 3, -1.
+** Constraint: N11_191z
+*Equation
+2
+N11, 3, 1.
+N191, 3, -1.
+** Constraint: N14_194z
+*Equation
+2
+N14, 3, 1.
+N194, 3, -1.
+** Constraint: N15_195z
+*Equation
+2
+N15, 3, 1.
+N195, 3, -1.
+** Constraint: N16_196z
+*Equation
+2
+N16, 3, 1.
+N196, 3, -1.
+** Constraint: N17_197z
+*Equation
+2
+N17, 3, 1.
+N197, 3, -1.
+** Constraint: N20_200z
+*Equation
+2
+N20, 3, 1.
+N200, 3, -1.
+** Constraint: N21_201z
+*Equation
+2
+N21, 3, 1.
+N201, 3, -1.
+** Constraint: N22_202z
+*Equation
+2
+N22, 3, 1.
+N202, 3, -1.
+** Constraint: N23_203z
+*Equation
+2
+N23, 3, 1.
+N203, 3, -1.
+** Constraint: N26_206z
+*Equation
+2
+N26, 3, 1.
+N206, 3, -1.
+** Constraint: N27_207z
+*Equation
+2
+N27, 3, 1.
+N207, 3, -1.
+** Constraint: N28_208z
+*Equation
+2
+N28, 3, 1.
+N208, 3, -1.
+** Constraint: N29_209z
+*Equation
+2
+N29, 3, 1.
+N209, 3, -1.
+** Constraint: N43_48z
+*Equation
+2
+N43, 3, 1.
+N48, 3, -1.
+** Constraint: N49_54z
+*Equation
+2
+N49, 3, 1.
+N54, 3, -1.
+** Constraint: N55_60z
+*Equation
+2
+N55, 3, 1.
+N60, 3, -1.
+** Constraint: N61_66z
+*Equation
+2
+N61, 3, 1.
+N66, 3, -1.
+** Constraint: N79_84z
+*Equation
+2
+N79, 3, 1.
+N84, 3, -1.
+** Constraint: N85_90z
+*Equation
+2
+N85, 3, 1.
+N90, 3, -1.
+** Constraint: N91_96z
+*Equation
+2
+N91, 3, 1.
+N96, 3, -1.
+** Constraint: N97_102z
+*Equation
+2
+N97, 3, 1.
+N102, 3, -1.
+** Constraint: N115_120z
+*Equation
+2
+N115, 3, 1.
+N120, 3, -1.
+** Constraint: N121_126z
+*Equation
+2
+N121, 3, 1.
+N126, 3, -1.
+** Constraint: N127_132z
+*Equation
+2
+N127, 3, 1.
+N132, 3, -1.
+** Constraint: N133_138z
+*Equation
+2
+N133, 3, 1.
+N138, 3, -1.
+** Constraint: N151_156z
+*Equation
+2
+N151, 3, 1.
+N156, 3, -1.
+** Constraint: N157_162z
+*Equation
+2
+N157, 3, 1.
+N162, 3, -1.
+** Constraint: N163_168z
+*Equation
+2
+N163, 3, 1.
+N168, 3, -1.
+** Constraint: N169_174z
+*Equation
+2
+N169, 3, 1.
+N174, 3, -1.
